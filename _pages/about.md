@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Jinlong Pang, a first-year UCSC CSE PhD student. Now, I am co-advised by Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/) and Prof. [Yang Liu](http://www.yliuu.com/). Before joining UCSC, I got my master degree in Wuhan University, supervised by Prof. [Ruiting Zhou](https://ruitingzho
-u.wordpress.com/).
+I am Jinlong Pang, a first-year UCSC CSE PhD student. Now, I am co-advised by Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/) and Prof. [Yang Liu](http://www.yliuu.com/). Before joining UCSC, I got my master degree in Wuhan University, supervised by Prof. [Ruiting Zhou](https://ruitingzhou.wordpress.com/).
 
 
 Education
