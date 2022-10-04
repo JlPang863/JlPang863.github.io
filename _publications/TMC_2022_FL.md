@@ -2,8 +2,11 @@
 title: "Incentive Auction Design for Selecting Heterogeneous Clients in Federated Learning"
 collection: publications
 permalink: 
-excerpt:
-venue: 'IEEE TMC 2022'
-paperurl:
+excerpt: 
+authors: 'Jinlong Pang'
+date: 2022-04-01
+venue: 'IEEE TMC'
+paperurl: 
 citation:
 ---
+
