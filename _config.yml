@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jinlong Pang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jinlong Pang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jinlong Pang"
   avatar           : "profile.jpeg"
-  bio              : "UCSC"
+  bio              : "PhD student at UC Santa Cruz"
   location         : "Santa Cruz, California"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
