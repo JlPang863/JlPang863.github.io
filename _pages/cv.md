@@ -19,7 +19,7 @@ Education
 
 Research Interests
 ======
-Network economics, algorithm optimization, fairness in Machine Learning
+Network economics, algorithm optimization, incentive design and fairness in the context of machine learning
 
 Publications
 =====
