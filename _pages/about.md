@@ -15,6 +15,11 @@ My research interest are incentive design, networks economics and algorithm opti
 Before joining UCSC, I received my MEng degree (Cybersecurity) with honor at [Wuhan University](https://www.whu.edu.cn/), supervised by Prof. [Ruiting Zhou](https://ruitingzhou.wordpress.com/) and BEng degrees (Nuclear Engineering and Computer Science) both from [Wuhan University](https://www.whu.edu.cn/).
 
 
-Research Interests
+Hobbies and Interests
+========
+Playing badminton, swimming, enjoying fitness
+
+Contact Information
 ======
-Network economics, algorithm optimization, fairness in Machine Learning
+Email: jpang14@ucsc.edu     
+Office: UCSC E2-489 Machine Learning Lab
