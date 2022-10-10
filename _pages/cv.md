@@ -16,6 +16,11 @@ Education
 * B.E. in Cumputer Science, Wuhan University, 2017-2019
 * B.E. in Nuclear Eigneering, Wuhan University, 2015-2019
 
+
+Research Interests
+======
+Network economics, algorithm optimization, fairness in Machine Learning
+
 Publications
 =====
 **Papers in Submission/Revision**
