@@ -14,7 +14,7 @@ Academic Projects
 
 
 # Cluster Resource Scheduling in Distributed Machine Learning (JSA 2022), Oct 2020 – Aug 2021.      
-![JSA 2022](https://raw.githubusercontent.com/JlPang863/JlPang863.github.io/master/images/jsa2022.png)                   
+![JSA 2022](https://raw.githubusercontent.com/JlPang863/JlPang863.github.io/master/images/jsa2022.png =300x300)                   
 **This work focuses on resource scheduling and pricing for distributed ML jobs at the edge to maximize total social welfare without any future information.**      
 * Model and formulate the social welfare maximization problem into a mixed integer nonlinear program (MINLP). And reformulate it into a typical knapsack-type problem by introducing exponential number of variables.
 * Design tailored price functions for resources based on market rules. And propose a heuristic algorithm for dynamically allocating resources for jobs tominimize average job completion time, corresponding to social welfare.
