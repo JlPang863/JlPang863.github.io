@@ -49,7 +49,7 @@ IEEE ICPADS -- IEEE International Conference on Parallel and Distributed Systems
 
 
 6.  A Truthful Procurement Auction for Incentivizing Heterogeneous Clients in Federated Learning          
-Ruiting Zhou, Jinlong Pang, Zhibo Wang, John C.S. Lui, Zongpeng Li     
+Ruiting Zhou, **Jinlong Pang**, Zhibo Wang, John C.S. Lui, Zongpeng Li     
 IEEE ICDCS -- IEEE International Conference on Distributed Computing Systems, 2021     
 [[paper]](https://ieeexplore-ieee-org.oca.ucsc.edu/document/9546466)
 
