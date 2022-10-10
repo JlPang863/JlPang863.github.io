@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. in the Computer Science and Engineer Department at [University of California, Santa Cruz](https://www.ucsc.edu/), fortunatedly co-advised by Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/) and Prof. [Yang Liu](http://www.yliuu.com/). 
+I am a first-year Ph.D. student in the Computer Science and Engineer Department at [University of California, Santa Cruz](https://www.ucsc.edu/), fortunatedly co-advised by Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/) and Prof. [Yang Liu](http://www.yliuu.com/). 
 
 My research interests are incentive design, networks economics and algorithm optimization both in the context of machine learning. 
 
