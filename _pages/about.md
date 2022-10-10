@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am Jinlong Pang, a first-year UCSC CSE PhD student. Now, I am co-advised by Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/) and Prof. [Yang Liu](http://www.yliuu.com/). Before joining UCSC, I got my master degree in Wuhan University, supervised by Prof. [Ruiting Zhou](https://ruitingzhou.wordpress.com/).
+I am a first-year Ph.D. in the Computer Science and Engineer Department at [University of California, Santa Cruz]{https://www.ucsc.edu/}, fortunatedly co-advised by Prof. [Chen Qian](https://users.soe.ucsc.edu/~qian/) and Prof. [Yang Liu](http://www.yliuu.com/). 
+
+My research interest are incentive design, networks economics and algorithm optimization both in the context of machine learning. 
+
+Before joining UCSC, I received my MEng degree (Cybersecurity) with honor at [Wuhan University]{https://www.whu.edu.cn/}, supervised by Prof. [Ruiting Zhou](https://ruitingzhou.wordpress.com/) and BEng degrees (Nuclear Engineering and Computer Science) both from [Wuhan University]{https://www.whu.edu.cn/}.
 
 
 Education
