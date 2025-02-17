@@ -17,10 +17,11 @@ Before joining UCSC, I received my MEng degree (Cybersecurity) with honor at [Wu
 
 🎉🎉 **News**
 ========
-- Our data quality evaluation pipeline DS2 (ICLR 2025) has been released in repo [DS2](https://github.com/UCSC-REAL/DS2).
-- Two LLM papers (**DS2** and **FLAT**) accepted by ICLR 2025. 
-- One papers accepted by NeurIPS 2024. See you in Vancouver.
-- Join Accenture as summer research intern
+- New paper titled in "Token Cleaning: Fine-Grained Data Selection for LLM Supervised Fine-Tuning" has been released in Arxiv.
+- Our LLM instruction tuning data quality evaluation pipeline **DS2** (ICLR 2025) has been released in repo [DS2](https://github.com/UCSC-REAL/DS2).
+- Two LLM papers ([**DS2**](https://arxiv.org/abs/2410.10877) and [**FLAT**](https://arxiv.org/abs/2410.11143)) accepted by ICLR 2025!
+- One fairness paper [Fairness Without Harm: An Influence-Guided Active Sampling Approach](https://arxiv.org/abs/2402.12789) accepted by NeurIPS 2024. See you in Vancouver!
+- Join Accenture as summer research intern!
 
 
 
